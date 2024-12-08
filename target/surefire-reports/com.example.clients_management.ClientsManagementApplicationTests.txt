@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.example.clients_management.ClientsManagementApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 14.89 s -- in com.example.clients_management.ClientsManagementApplicationTests
